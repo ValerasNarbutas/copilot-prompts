@@ -1,0 +1,51 @@
+[
+  {
+    "name": "copilotprompts-personal-brand-builder",
+    "source": "pnp",
+    "title": "Personal Brand Builder",
+    "shortDescription": "An AI-powered career coach that helps professionals build and amplify their personal brand through strategic content creation.",
+    "url": "https://github.com/pnp/copilot-prompts/tree/main/samples/agent-instructions/personal-brand-builder",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/copilot-prompts/tree/main/samples/agent-instructions/personal-brand-builder",
+    "longDescription": [
+      "An AI-powered career coach that helps professionals build and amplify their personal brand through strategic content creation, social media optimization, and thought leadership. It analyzes your expertise, suggests content ideas, and helps craft compelling narratives that position you as an authority in your field."
+    ],
+    "creationDateTime": "2025-10-31",
+    "updateDateTime": "2025-10-31",
+    "products": [
+      "Copilot"
+    ],
+    "metadata": [
+      "AGENT",
+      "PERSONAL-BRANDING",
+      "CAREER-DEVELOPMENT",
+      "CONTENT-STRATEGY"
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://github.com/pnp/copilot-prompts/raw/main/samples/agent-instructions/personal-brand-builder/assets/preview.png",
+        "alt": "Personal Brand Builder Dashboard"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "copilot-agent",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/copilot-agent",
+        "name": "Copilot Agent Contributor"
+      }
+    ],
+    "references": [
+      {
+        "name": "Microsoft Copilot",
+        "description": "Microsoft Copilot",
+        "url": "https://copilot.microsoft.com/"
+      },
+      {
+        "name": "LinkedIn",
+        "description": "Professional networking platform",
+        "url": "https://www.linkedin.com/"
+      }
+    ]
+  }
+]
