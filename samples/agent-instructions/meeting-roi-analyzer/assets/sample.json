@@ -1,0 +1,51 @@
+[
+  {
+    "name": "copilotprompts-meeting-roi-analyzer",
+    "source": "pnp",
+    "title": "Meeting ROI Analyzer",
+    "shortDescription": "An AI agent that quantifies meeting costs and value, providing data-driven recommendations to optimize meeting culture.",
+    "url": "https://github.com/pnp/copilot-prompts/tree/main/samples/agent-instructions/meeting-roi-analyzer",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/copilot-prompts/tree/main/samples/agent-instructions/meeting-roi-analyzer",
+    "longDescription": [
+      "An AI agent that quantifies the true cost and value of meetings by analyzing calendar patterns, participant time, and outcomes. It provides data-driven recommendations to optimize meeting culture, reduce unnecessary meetings, and improve organizational productivity through actionable insights and meeting quality scores."
+    ],
+    "creationDateTime": "2025-10-31",
+    "updateDateTime": "2025-10-31",
+    "products": [
+      "Copilot"
+    ],
+    "metadata": [
+      "AGENT",
+      "PRODUCTIVITY",
+      "MEETINGS",
+      "ROI"
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://github.com/pnp/copilot-prompts/raw/main/samples/agent-instructions/meeting-roi-analyzer/assets/preview.png",
+        "alt": "Meeting ROI Analyzer Dashboard"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "copilot-agent",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/copilot-agent",
+        "name": "Copilot Agent Contributor"
+      }
+    ],
+    "references": [
+      {
+        "name": "Microsoft Copilot",
+        "description": "Microsoft Copilot",
+        "url": "https://copilot.microsoft.com/"
+      },
+      {
+        "name": "Microsoft Viva Insights",
+        "description": "Workplace analytics and insights",
+        "url": "https://www.microsoft.com/en-us/microsoft-viva/insights"
+      }
+    ]
+  }
+]
