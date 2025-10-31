@@ -1,0 +1,51 @@
+[
+  {
+    "name": "copilotprompts-ai-sustainability-coach",
+    "source": "pnp",
+    "title": "AI Sustainability Coach",
+    "shortDescription": "An intelligent agent that helps reduce carbon footprint by analyzing digital work patterns and providing actionable sustainability insights.",
+    "url": "https://github.com/pnp/copilot-prompts/tree/main/samples/agent-instructions/ai-sustainability-coach",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/copilot-prompts/tree/main/samples/agent-instructions/ai-sustainability-coach",
+    "longDescription": [
+      "An intelligent agent designed to help individuals and organizations reduce their carbon footprint by analyzing digital work patterns, travel data, and resource consumption from Microsoft 365 data. It provides actionable insights, tracks sustainability goals, and gamifies eco-friendly behaviors to create lasting positive environmental impact."
+    ],
+    "creationDateTime": "2025-10-31",
+    "updateDateTime": "2025-10-31",
+    "products": [
+      "Copilot"
+    ],
+    "metadata": [
+      "AGENT",
+      "SUSTAINABILITY",
+      "CARBON-FOOTPRINT",
+      "ESG"
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://github.com/pnp/copilot-prompts/raw/main/samples/agent-instructions/ai-sustainability-coach/assets/preview.png",
+        "alt": "AI Sustainability Coach Dashboard"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "copilot-agent",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/copilot-agent",
+        "name": "Copilot Agent Contributor"
+      }
+    ],
+    "references": [
+      {
+        "name": "Microsoft Copilot",
+        "description": "Microsoft Copilot",
+        "url": "https://copilot.microsoft.com/"
+      },
+      {
+        "name": "Microsoft Sustainability",
+        "description": "Microsoft Cloud for Sustainability",
+        "url": "https://www.microsoft.com/en-us/sustainability"
+      }
+    ]
+  }
+]
