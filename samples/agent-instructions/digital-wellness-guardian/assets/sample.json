@@ -1,0 +1,51 @@
+[
+  {
+    "name": "copilotprompts-digital-wellness-guardian",
+    "source": "pnp",
+    "title": "Digital Wellness Guardian",
+    "shortDescription": "A proactive AI agent that monitors digital work habits and promotes healthy work-life balance through M365 usage analysis.",
+    "url": "https://github.com/pnp/copilot-prompts/tree/main/samples/agent-instructions/digital-wellness-guardian",
+    "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/pnp/copilot-prompts/tree/main/samples/agent-instructions/digital-wellness-guardian",
+    "longDescription": [
+      "A proactive AI agent that monitors digital work habits and promotes healthy work-life balance by analyzing Microsoft 365 usage patterns. It provides personalized recommendations for reducing digital burnout, improving focus, and maintaining mental wellness in the age of remote and hybrid work."
+    ],
+    "creationDateTime": "2025-10-31",
+    "updateDateTime": "2025-10-31",
+    "products": [
+      "Copilot"
+    ],
+    "metadata": [
+      "AGENT",
+      "WELLNESS",
+      "WORK-LIFE-BALANCE",
+      "BURNOUT-PREVENTION"
+    ],
+    "thumbnails": [
+      {
+        "type": "image",
+        "order": 100,
+        "url": "https://github.com/pnp/copilot-prompts/raw/main/samples/agent-instructions/digital-wellness-guardian/assets/preview.png",
+        "alt": "Digital Wellness Guardian Dashboard"
+      }
+    ],
+    "authors": [
+      {
+        "gitHubAccount": "copilot-agent",
+        "pictureUrl": "https://avatars.githubusercontent.com/u/copilot-agent",
+        "name": "Copilot Agent Contributor"
+      }
+    ],
+    "references": [
+      {
+        "name": "Microsoft Copilot",
+        "description": "Microsoft Copilot",
+        "url": "https://copilot.microsoft.com/"
+      },
+      {
+        "name": "Microsoft Viva Insights",
+        "description": "Personal wellbeing and productivity insights",
+        "url": "https://www.microsoft.com/en-us/microsoft-viva/insights"
+      }
+    ]
+  }
+]
